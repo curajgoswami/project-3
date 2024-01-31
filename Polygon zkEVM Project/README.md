@@ -30,11 +30,6 @@ To use this circuit, follow these steps:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/YashUpadhyay0456/poly-proof-3rd-assessment.git
-cd poly-proof-3rd-assessment
-```
-
 2. Make sure you have Circom (2.0.0) installed on your system.
 
 3. Compile the circuit:
